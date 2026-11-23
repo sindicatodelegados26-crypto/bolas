@@ -1,0 +1,6 @@
+{
+  "name": "Liga de Bolas Criollas — Gestión de Torneos",
+  "description": "Sistema profesional de calendario equilibrado en canchas y horarios, tabla de clasificación con duelo directo y averaje, planillas de jugadores y estadísticas técnicas de arrimes y boches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
